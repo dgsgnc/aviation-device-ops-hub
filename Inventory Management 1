@@ -1,0 +1,28 @@
+# Aviation Device Lifecycle Management System
+
+## 📌 Project Overview  
+Designed and implemented a centralized operational management system to track and manage the lifecycle of onboard aviation devices — from manufacturing to regulatory clearance and aircraft installation.
+
+## 🎯 Problem Statement  
+Operational tracking processes were fragmented across spreadsheets and email chains, leading to delays, accountability issues, and poor cross-functional coordination among hardware, finance, customs, and customer success teams.
+
+## 🛠️ Solution Approach  
+- Developed a structured issue management and tracking platform using **Jira Software** with tailored workflows and SLA mechanisms.
+- Replaced spreadsheets with dynamic digital dashboards and standardized reporting templates.
+- Established escalation protocols, agile stand-ups, and periodic action plan reviews for proactive issue handling.
+- Integrated notification systems to ensure on-time delivery and operational visibility.
+
+## 📊 Results & Impact  
+- Reduced operational delivery delays by **19%** in the first operational year.
+- Achieved full transparency in asset and delivery management processes.
+- Increased cross-functional accountability, improving operational readiness and customer satisfaction.
+
+## 🔧 Tech Stack  
+- Jira Software  
+- Grafana  
+- Confluence  
+- Google Workspace  
+- Slack API  
+
+## 📈 Key Takeaways  
+A data-driven operational framework drastically improves coordination and transparency in complex, multi-stakeholder environments like aviation tech deployments.
