@@ -1,0 +1,29 @@
+# Predictive Maintenance & Risk Mapping for IFEC Devices
+
+## 📌 Project Overview  
+Built a predictive operational monitoring framework for In-Flight Entertainment and Connectivity (IFEC) hardware installed on a global airline fleet, enabling proactive issue detection and risk management.
+
+## 🎯 Problem Statement  
+Recurring device malfunctions occurred due to reactive monitoring and the absence of behavioral trend analysis. This negatively impacted customer satisfaction and operational continuity.
+
+## 🛠️ Solution Approach  
+- Deployed continuous data monitoring via **Grafana** and **Kibana** dashboards to track device health and performance anomalies.
+- Established a risk-mapping model by correlating hardware and software incidents with operational data to forecast potential disruptions.
+- Designed a dedicated issue management workflow in **Jira Software** integrated with alerting mechanisms.
+- Conducted regular sprint ceremonies with cross-departmental stakeholders to prioritize actions based on predictive data insights.
+
+## 📊 Results & Impact  
+- Prevented **100+ potential device failures** over five years by proactive interventions.
+- Boosted operational readiness rates and improved incident response times.
+- Enhanced data-informed decision-making capabilities within technical and business operations teams.
+
+## 🔧 Tech Stack  
+- Grafana  
+- Kibana  
+- Jira Software  
+- Confluence  
+- Google Workspace  
+- Agile Scrum Framework  
+
+## 📈 Key Takeaways  
+Integrating predictive maintenance strategies with operational workflows improves business continuity, reduces downtime, and elevates customer experience in complex operational ecosystems.
